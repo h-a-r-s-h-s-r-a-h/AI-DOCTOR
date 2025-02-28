@@ -1,0 +1,422 @@
+Food,Calories,Protein(g),Carbs(g),Fat(g),Category,Type_of_Diet,Disease_Help
+Apple,52.0,0.3,14.0,0.2,Fruit,Low Fat,Digestive Health
+Chicken Breast (grilled),165.0,31.0,0.0,3.6,Meat,Keto,Energy Boost
+Broccoli,55.0,3.7,11.2,0.6,Vegetable,Vegan,Muscle Gain
+Whole Wheat Bread,110.0,4.0,20.0,1.0,Grain,High Protein,Heart Health
+Salmon (baked),206.0,22.0,0.0,13.0,Seafood,Low Fat,Bone Health
+Almonds,579.0,21.0,22.0,50.0,Nut,Pescatarian,Brain Health
+Spinach,23.0,2.9,3.6,0.4,Vegetable,Vegan,Digestive Health
+Egg (boiled),77.0,6.3,0.6,5.3,Egg,Low Fat,Bone Health
+Brown Rice,111.0,2.6,23.0,0.9,Grain,High Protein,Weight Management
+Yogurt (low-fat),59.0,10.0,3.6,0.4,Dairy,High Protein,Skin Health
+Samosa,262.0,3.5,31.0,15.0,Snack,Vegetarian,Digestive Health
+Paneer Tikka,321.0,25.0,3.4,25.0,Dairy,High Protein,Bone Health
+Dal Makhani,182.0,9.0,22.0,6.0,Legume,Vegan,Weight Management
+Butter Chicken,490.0,30.0,10.0,38.0,Meat,Keto,Energy Boost
+Idli,39.0,2.0,8.0,0.1,Grain,Low Fat,Digestive Health
+Masala Dosa,206.0,5.0,30.0,6.0,Grain,Vegetarian,Energy Boost
+Chole Bhature,280.0,15.0,45.0,5.0,Legume,Vegan,Heart Health
+Rajma Chawal,127.0,9.0,22.0,0.8,Legume,Vegan,Weight Management
+Biryani (Chicken),292.0,16.0,29.0,12.0,Grain,High Protein,Immune Support
+Roti (Whole Wheat),71.0,3.0,15.0,0.4,Grain,Vegan,Heart Health
+Aloo Paratha,220.0,5.0,35.0,7.0,Grain,Vegetarian,Weight Management
+Pani Puri,208.0,4.0,32.0,8.0,Snack,Vegetarian,Digestive Health
+Chana Masala,210.0,11.0,35.0,6.0,Legume,Vegan,Heart Health
+Upma,180.0,5.0,30.0,5.0,Grain,Vegetarian,Energy Boost
+Dhokla,150.0,5.0,28.0,4.0,Snack,Vegetarian,Digestive Health
+Pav Bhaji,400.0,8.0,45.0,20.0,Snack,Vegetarian,Energy Boost
+Rajma,220.0,10.0,35.0,6.0,Legume,Vegan,Weight Management
+Bhel Puri,190.0,4.0,33.0,5.0,Snack,Vegetarian,Digestive Health
+Matar Paneer,240.0,10.0,15.0,15.0,Vegetable/Dairy,High Protein,Bone Health
+Malai Kofta,250.0,8.0,12.0,20.0,Dairy,High Fat,Energy Boost
+Gajar Halwa,300.0,6.0,40.0,10.0,Dessert,Vegetarian,Skin Health
+Khichdi,200.0,6.0,35.0,4.0,Grain/Legume,Vegan,Digestive Health
+Rasam,60.0,2.0,10.0,Soup,Vegan,Immune Support
+Pesarattu (Green Gram Dosa),150.0,7.0,24.0,4.0,Grain,Vegan,Muscle Gain
+Vada Pav,300.0,7.0,40.0,12.0,Snack,Vegetarian,Energy Boost
+Thepla,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Baingan Bharta,120.0,3.0,10.0,8.0,Vegetable,Vegan,Weight Management
+Plain Dosa,133.0,3.0,22.0,3.0,Grain,Vegan,Digestive Health
+Shrikhand,280.0,7.0,20.0,20.0,Dessert,Vegetarian,Energy Boost
+Coconut Chutney,90.0,1.0,6.0,7.0,Condiment,Vegan,Heart Health
+Kheer,150.0,5.0,20.0,6.0,Dessert,Vegetarian,Skin Health
+Aloo Gobi,140.0,4.0,15.0,8.0,Vegetable,Vegan,Weight Management
+Tandoori Roti,100.0,3.5,18.0,2.0,Grain,Low Fat,Heart Health
+Naan,290.0,9.0,48.0,7.0,Grain,Vegetarian,Energy Boost
+Fish Curry,350.0,25.0,10.0,22.0,Seafood,High Protein,Bone Health
+Egg Curry,180.0,12.0,8.0,12.0,Egg,High Protein,Energy Boost
+Lassi,154.0,8.0,20.0,6.0,Beverage,Low Fat,Muscle Gain
+Kulfi,300.0,6.0,35.0,15.0,Dessert,Vegetarian,Skin Health
+Masala Chai,105.0,2.0,15.0,Beverage,Vegetarian,Energy Boost
+Poha,180.0,4.0,27.0,5.0,Grain,Vegetarian,Energy Boost
+Sabudana Khichdi,220.0,5.0,45.0,7.0,Grain,Vegetarian,Weight Management
+Thepla,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Khandvi,120.0,4.0,18.0,6.0,Snack,Vegetarian,Digestive Health
+Pesarattu,150.0,7.0,24.0,4.0,Grain,Vegan,Muscle Gain
+Chicken Korma,350.0,25.0,10.0,25.0,Meat,Keto,Immune Support
+Goan Fish Curry,320.0,22.0,12.0,20.0,Seafood,High Protein,Bone Health
+Hyderabadi Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Chicken 65,300.0,25.0,10.0,20.0,Meat,Keto,Energy Boost
+Keema Pav,400.0,20.0,50.0,15.0,Meat,Pescatarian,Heart Health
+Misal Pav,350.0,15.0,40.0,12.0,Legume,Vegetarian,Energy Boost
+Sheera,250.0,5.0,45.0,7.0,Dessert,Vegetarian,Skin Health
+Jalebi,150.0,3.0,30.0,6.0,Dessert,Vegetarian,Skin Health
+Fafda,200.0,5.0,35.0,8.0,Snack,Vegetarian,Digestive Health
+Dhokla,150.0,5.0,28.0,4.0,Snack,Vegetarian,Digestive Health
+Handvo,180.0,6.0,25.0,7.0,Snack,Vegetarian,Digestive Health
+Undhiyu,250.0,8.0,30.0,12.0,Vegetable,Vegan,Weight Management
+Aamras,100.0,2.0,20.0,Beverage,Vegan,Immune Support
+Shrikhand,280.0,7.0,20.0,Dessert,Vegetarian,Energy Boost
+Banana Chips,450.0,5.0,50.0,25.0,Snack,Vegetarian,Energy Boost
+Malai Kofta,250.0,8.0,12.0,20.0,Dairy,High Fat,Energy Boost
+Aloo Tikki,220.0,6.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Mango Lassi,180.0,6.0,28.0,6.0,Beverage,Vegetarian,Energy Boost
+Roti,71.0,3.0,15.0,0.4,Grain,Vegan,Heart Health
+Paratha,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Bajra Roti,120.0,4.0,20.0,2.0,Grain,Vegan,Heart Health
+Sarson Ka Saag,180.0,5.0,15.0,10.0,Vegetable,Vegan,Bone Health
+Makki Ki Roti,150.0,4.0,25.0,3.0,Grain,Vegan,Heart Health
+Besan Laddu,250.0,6.0,35.0,10.0,Dessert,Vegetarian,Skin Health
+Moong Dal Halwa,300.0,8.0,40.0,12.0,Dessert,Vegetarian,Skin Health
+Chicken Tikka,220.0,25.0,5.0,12.0,Meat,High Protein,Muscle Gain
+Tandoori Chicken,300.0,30.0,0.0,18.0,Meat,Keto,Energy Boost
+Veg Hakka Noodles,350.0,10.0,60.0,10.0,Grain,Vegetarian,Energy Boost
+Fried Rice,290.0,8.0,50.0,8.0,Grain,Vegetarian,Energy Boost
+Sweet Corn Soup,120.0,4.0,20.0,Soup,Vegetarian,Immune Support
+Tomato Soup,90.0,3.0,15.0,Soup,Vegan,Immune Support
+Paneer Butter Masala,350.0,15.0,20.0,25.0,Dairy,High Protein,Bone Health
+Veg Manchurian,250.0,8.0,30.0,12.0,Snack,Vegetarian,Digestive Health
+Gajar Ka Halwa,300.0,6.0,40.0,10.0,Dessert,Vegetarian,Skin Health
+Shahi Paneer,320.0,18.0,15.0,22.0,Dairy,High Protein,Bone Health
+Kaju Katli,200.0,4.0,25.0,10.0,Dessert,Vegetarian,Skin Health
+Peda,150.0,5.0,20.0,Dessert,Vegetarian,Skin Health
+Milk Barfi,220.0,8.0,30.0,Dessert,Vegetarian,Energy Boost
+Aloo Bonda,180.0,5.0,25.0,8.0,Snack,Vegetarian,Digestive Health
+Chana Masala,210.0,11.0,35.0,6.0,Legume,Vegan,Heart Health
+Veg Kolhapuri,250.0,8.0,20.0,15.0,Vegetable,Vegetarian,Energy Boost
+Dahi Puri,200.0,5.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Pav Bhaji,400.0,8.0,45.0,20.0,Snack,Vegetarian,Energy Boost
+Chilli Paneer,300.0,15.0,20.0,18.0,Dairy,Vegetarian,Muscle Gain
+Hakka Noodles,350.0,10.0,60.0,10.0,Grain,Vegetarian,Energy Boost
+Lemon Rice,180.0,4.0,35.0,5.0,Grain,Vegetarian,Energy Boost
+Coconut Rice,200.0,4.0,30.0,8.0,Grain,Vegetarian,Heart Health
+Mutton Curry,400.0,25.0,10.0,30.0,Meat,Keto,Energy Boost
+Chicken Curry,350.0,28.0,15.0,20.0,Meat,Keto,Immune Support
+Rava Dosa,150.0,5.0,25.0,4.0,Grain,Vegetarian,Digestive Health
+Onion Uttapam,180.0,6.0,30.0,5.0,Grain,Vegetarian,Energy Boost
+Tomato Chutney,50.0,1.0,8.0,2.0,Condiment,Vegan,Heart Health
+Peanut Chutney,80.0,3.0,6.0,5.0,Condiment,Vegan,Heart Health
+Coconut Chutney,90.0,1.0,6.0,7.0,Condiment,Vegan,Heart Health
+Masala Dosa,206.0,5.0,30.0,6.0,Grain,Vegetarian,Energy Boost
+Chettinad Chicken Curry,380.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Pav Bhaji,400.0,8.0,45.0,20.0,Snack,Vegetarian,Energy Boost
+Aloo Chaat,250.0,6.0,35.0,10.0,Snack,Vegetarian,Digestive Health
+Gobi Manchurian,300.0,10.0,25.0,15.0,Vegetable,Vegetarian,Energy Boost
+Methi Thepla,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Bombay Sandwich,220.0,8.0,35.0,6.0,Snack,Vegetarian,Heart Health
+Paneer Bhurji,280.0,18.0,10.0,20.0,Dairy,High Protein,Bone Health
+Masoor Dal,180.0,12.0,25.0,5.0,Legume,Vegan,Weight Management
+Kadhi,150.0,6.0,20.0,5.0,Legume,Vegan,Digestive Health
+Tandoori Roti,100.0,3.5,18.0,2.0,Grain,Low Fat,Heart Health
+Naan,290.0,9.0,48.0,7.0,Grain,Vegetarian,Energy Boost
+Fish Fry,250.0,20.0,5.0,15.0,Seafood,Keto,Energy Boost
+Egg Bhurji,180.0,12.0,8.0,12.0,Egg,High Protein,Energy Boost
+Mango Pickle,150.0,0.5,8.0,12.0,Condiment,Vegetarian,Immune Support
+Vegetable Samosa,200.0,5.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Chicken Shawarma,300.0,25.0,20.0,15.0,Meat,Keto,Energy Boost
+Beef Curry,400.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Litti Chokha,350.0,12.0,45.0,15.0,Grain,Vegetarian,Energy Boost
+Mushroom Masala,220.0,6.0,20.0,12.0,Vegetable,Vegetarian,Immune Support
+Paneer Butter Masala,350.0,15.0,20.0,25.0,Dairy,High Protein,Bone Health
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Chicken Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Egg Bhurji,180.0,12.0,8.0,12.0,Egg,High Protein,Energy Boost
+Aloo Mutter,250.0,8.0,30.0,10.0,Vegetable,Vegetarian,Weight Management
+Schezwan Noodles,300.0,10.0,50.0,10.0,Grain,Vegetarian,Energy Boost
+Paneer Lababdar,300.0,18.0,15.0,20.0,Dairy,High Protein,Bone Health
+Chicken Lollipop,400.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Prawn Curry,320.0,25.0,10.0,18.0,Seafood,High Protein,Bone Health
+Veg Sandwich,180.0,8.0,25.0,6.0,Snack,Vegetarian,Heart Health
+Tawa Paneer,250.0,20.0,10.0,15.0,Dairy,High Protein,Bone Health
+Beef Biryani,500.0,25.0,60.0,20.0,Meat,Keto,Energy Boost
+Chicken Seekh Kebab,220.0,20.0,5.0,14.0,Meat,Keto,Muscle Gain
+Vegetable Pakora,150.0,4.0,20.0,7.0,Snack,Vegetarian,Digestive Health
+Paneer Wrap,300.0,18.0,30.0,12.0,Dairy,High Protein,Energy Boost
+Mutton Biryani,480.0,25.0,55.0,18.0,Meat,Keto,Energy Boost
+Fish Tikka,200.0,20.0,5.0,12.0,Seafood,Keto,Muscle Gain
+Chicken Sandwich,250.0,20.0,25.0,10.0,Meat,High Protein,Heart Health
+Veg Frankie,220.0,6.0,30.0,8.0,Snack,Vegetarian,Energy Boost
+Chicken Roll,300.0,25.0,20.0,15.0,Meat,Keto,Energy Boost
+Mutton Curry,400.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Prawn Masala,350.0,25.0,15.0,20.0,Seafood,High Protein,Bone Health
+Paneer Sandwich,280.0,15.0,25.0,12.0,Dairy,High Protein,Heart Health
+Veg Salad,100.0,5.0,15.0,3.0,Vegetable,Vegan,Immune Support
+Chicken Salad,200.0,25.0,10.0,8.0,Meat,High Protein,Muscle Gain
+Fruit Salad,150.0,2.0,35.0,1.0,Fruit,Vegan,Skin Health
+Mango Chicken,350.0,25.0,20.0,15.0,Meat,Keto,Energy Boost
+Egg Fried Rice,250.0,10.0,35.0,8.0,Grain,Egg,Energy Boost
+Paneer Bhurji,280.0,18.0,10.0,20.0,Dairy,High Protein,Bone Health
+Chicken Noodles,300.0,20.0,40.0,10.0,Meat,High Protein,Energy Boost
+Vegetable Biryani,250.0,6.0,45.0,8.0,Grain,Vegetarian,Energy Boost
+Fish Fry,250.0,20.0,5.0,15.0,Seafood,Keto,Energy Boost
+Egg Sandwich,180.0,12.0,15.0,8.0,Egg,High Protein,Energy Boost
+Paneer Wrap,300.0,18.0,30.0,12.0,Dairy,High Protein,Energy Boost
+Chicken Kebab,220.0,20.0,5.0,14.0,Meat,Keto,Muscle Gain
+Vegetable Soup,100.0,4.0,15.0,3.0,Soup,Vegan,Immune Support
+Mutton Korma,400.0,25.0,10.0,25.0,Meat,Keto,Energy Boost
+Fish Stew,200.0,18.0,10.0,12.0,Seafood,Vegan,Bone Health
+Egg Curry,180.0,12.0,8.0,12.0,Egg,High Protein,Energy Boost
+Paneer Tikka,321.0,25.0,3.4,25.0,Dairy,High Protein,Bone Health
+Chicken Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Chicken Korma,350.0,25.0,10.0,25.0,Meat,Keto,Immune Support
+Goan Fish Curry,320.0,22.0,12.0,20.0,Seafood,High Protein,Bone Health
+Hyderabadi Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Chicken 65,300.0,25.0,10.0,20.0,Meat,Keto,Energy Boost
+Keema Pav,400.0,20.0,50.0,15.0,Meat,Pescatarian,Heart Health
+Misal Pav,350.0,15.0,40.0,12.0,Legume,Vegetarian,Energy Boost
+Sheera,250.0,5.0,45.0,7.0,Dessert,Vegetarian,Skin Health
+Jalebi,150.0,3.0,30.0,6.0,Dessert,Vegetarian,Skin Health
+Fafda,200.0,5.0,35.0,8.0,Snack,Vegetarian,Digestive Health
+Dhokla,150.0,5.0,28.0,4.0,Snack,Vegetarian,Digestive Health
+Handvo,180.0,6.0,25.0,7.0,Snack,Vegetarian,Digestive Health
+Undhiyu,250.0,8.0,30.0,12.0,Vegetable,Vegan,Weight Management
+Aamras,100.0,2.0,20.0,Beverage,Vegan,Immune Support
+Shrikhand,280.0,7.0,20.0,Dessert,Vegetarian,Energy Boost
+Banana Chips,450.0,5.0,50.0,25.0,Snack,Vegetarian,Energy Boost
+Malai Kofta,250.0,8.0,12.0,20.0,Dairy,High Fat,Energy Boost
+Aloo Tikki,220.0,6.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Mango Lassi,180.0,6.0,28.0,6.0,Beverage,Vegetarian,Energy Boost
+Roti,71.0,3.0,15.0,0.4,Grain,Vegan,Heart Health
+Paratha,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Bajra Roti,120.0,4.0,20.0,2.0,Grain,Vegan,Heart Health
+Sarson Ka Saag,180.0,5.0,15.0,10.0,Vegetable,Vegan,Bone Health
+Makki Ki Roti,150.0,4.0,25.0,3.0,Grain,Vegan,Heart Health
+Besan Laddu,250.0,6.0,35.0,10.0,Dessert,Vegetarian,Skin Health
+Moong Dal Halwa,300.0,8.0,40.0,12.0,Dessert,Vegetarian,Skin Health
+Chicken Tikka,220.0,25.0,5.0,12.0,Meat,High Protein,Muscle Gain
+Tandoori Chicken,300.0,30.0,0.0,18.0,Meat,Keto,Energy Boost
+Veg Hakka Noodles,350.0,10.0,60.0,10.0,Grain,Vegetarian,Energy Boost
+Fried Rice,290.0,8.0,50.0,8.0,Grain,Vegetarian,Energy Boost
+Sweet Corn Soup,120.0,4.0,20.0,Soup,Vegetarian,Immune Support
+Tomato Soup,90.0,3.0,15.0,Soup,Vegan,Immune Support
+Paneer Butter Masala,350.0,15.0,20.0,Dairy,High Protein,Bone Health
+Veg Manchurian,250.0,8.0,30.0,12.0,Snack,Vegetarian,Digestive Health
+Gajar Ka Halwa,300.0,6.0,40.0,10.0,Dessert,Vegetarian,Skin Health
+Shahi Paneer,320.0,18.0,15.0,22.0,Dairy,High Protein,Bone Health
+Kaju Katli,200.0,4.0,25.0,10.0,Dessert,Vegetarian,Skin Health
+Peda,150.0,5.0,20.0,Dessert,Vegetarian,Skin Health
+Milk Barfi,220.0,8.0,30.0,Dessert,Vegetarian,Energy Boost
+Aloo Bonda,180.0,5.0,25.0,8.0,Snack,Vegetarian,Digestive Health
+Chana Masala,210.0,11.0,35.0,6.0,Legume,Vegan,Heart Health
+Veg Kolhapuri,250.0,8.0,20.0,15.0,Vegetable,Vegetarian,Energy Boost
+Dahi Puri,200.0,5.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Pav Bhaji,400.0,8.0,45.0,20.0,Snack,Vegetarian,Energy Boost
+Chilli Paneer,300.0,15.0,20.0,18.0,Dairy,Vegetarian,Muscle Gain
+Hakka Noodles,350.0,10.0,60.0,10.0,Grain,Vegetarian,Energy Boost
+Lemon Rice,180.0,4.0,35.0,5.0,Grain,Vegetarian,Energy Boost
+Coconut Rice,200.0,4.0,30.0,8.0,Grain,Vegetarian,Heart Health
+Mutton Curry,400.0,25.0,10.0,25.0,Meat,Keto,Energy Boost
+Chicken Curry,350.0,28.0,15.0,20.0,Meat,Keto,Immune Support
+Rava Dosa,150.0,5.0,25.0,4.0,Grain,Vegetarian,Digestive Health
+Onion Uttapam,180.0,6.0,30.0,5.0,Grain,Vegetarian,Energy Boost
+Tomato Chutney,50.0,1.0,8.0,2.0,Condiment,Vegan,Heart Health
+Peanut Chutney,80.0,3.0,6.0,5.0,Condiment,Vegan,Heart Health
+Coconut Chutney,90.0,1.0,6.0,7.0,Condiment,Vegan,Heart Health
+Masala Dosa,206.0,5.0,30.0,6.0,Grain,Vegetarian,Energy Boost
+Chettinad Chicken Curry,380.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Aloo Chaat,250.0,6.0,35.0,10.0,Snack,Vegetarian,Digestive Health
+Gobi Manchurian,300.0,10.0,25.0,15.0,Vegetable,Vegetarian,Energy Boost
+Methi Thepla,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Bombay Sandwich,220.0,8.0,35.0,6.0,Snack,Vegetarian,Heart Health
+Paneer Bhurji,280.0,18.0,10.0,20.0,Dairy,High Protein,Bone Health
+Masoor Dal,180.0,12.0,25.0,5.0,Legume,Vegan,Weight Management
+Kadhi,150.0,6.0,20.0,5.0,Legume,Vegan,Digestive Health
+Tandoori Roti,100.0,3.5,18.0,2.0,Grain,Low Fat,Heart Health
+Naan,290.0,9.0,48.0,7.0,Grain,Vegetarian,Energy Boost
+Fish Fry,250.0,20.0,5.0,15.0,Seafood,Keto,Energy Boost
+Egg Bhurji,180.0,12.0,8.0,12.0,Egg,High Protein,Energy Boost
+Mango Pickle,150.0,0.5,8.0,12.0,Condiment,Vegetarian,Immune Support
+Vegetable Samosa,200.0,5.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Chicken Shawarma,300.0,25.0,20.0,15.0,Meat,Keto,Energy Boost
+Beef Curry,400.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Litti Chokha,350.0,12.0,45.0,15.0,Grain,Vegetarian,Energy Boost
+Mushroom Masala,220.0,6.0,20.0,12.0,Vegetable,Vegetarian,Immune Support
+Paneer Butter Masala,350.0,15.0,20.0,Dairy,High Protein,Bone Health
+Chicken Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Chicken Korma,350.0,25.0,10.0,25.0,Meat,Keto,Immune Support
+Goan Fish Curry,320.0,22.0,12.0,20.0,Seafood,High Protein,Bone Health
+Hyderabadi Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Chicken 65,300.0,25.0,10.0,20.0,Meat,Keto,Energy Boost
+Keema Pav,400.0,20.0,50.0,15.0,Meat,Pescatarian,Heart Health
+Misal Pav,350.0,15.0,40.0,12.0,Legume,Vegetarian,Energy Boost
+Sheera,250.0,5.0,45.0,7.0,Dessert,Vegetarian,Skin Health
+Jalebi,150.0,3.0,30.0,6.0,Dessert,Vegetarian,Skin Health
+Fafda,200.0,5.0,35.0,8.0,Snack,Vegetarian,Digestive Health
+Dhokla,150.0,5.0,28.0,4.0,Snack,Vegetarian,Digestive Health
+Handvo,180.0,6.0,25.0,7.0,Snack,Vegetarian,Digestive Health
+Undhiyu,250.0,8.0,30.0,12.0,Vegetable,Vegan,Weight Management
+Aamras,100.0,2.0,20.0,Beverage,Vegan,Immune Support
+Shrikhand,280.0,7.0,20.0,Dessert,Vegetarian,Energy Boost
+Banana Chips,450.0,5.0,50.0,25.0,Snack,Vegetarian,Energy Boost
+Malai Kofta,250.0,8.0,12.0,20.0,Dairy,High Fat,Energy Boost
+Aloo Tikki,220.0,6.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Mango Lassi,180.0,6.0,28.0,6.0,Beverage,Vegetarian,Energy Boost
+Roti,71.0,3.0,15.0,0.4,Grain,Vegan,Heart Health
+Paratha,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Bajra Roti,120.0,4.0,20.0,2.0,Grain,Vegan,Heart Health
+Sarson Ka Saag,180.0,5.0,15.0,10.0,Vegetable,Vegan,Bone Health
+Makki Ki Roti,150.0,4.0,25.0,3.0,Grain,Vegan,Heart Health
+Besan Laddu,250.0,6.0,35.0,10.0,Dessert,Vegetarian,Skin Health
+Moong Dal Halwa,300.0,8.0,40.0,12.0,Dessert,Vegetarian,Skin Health
+Chicken Tikka,220.0,25.0,5.0,12.0,Meat,High Protein,Muscle Gain
+Tandoori Chicken,300.0,30.0,0.0,18.0,Meat,Keto,Energy Boost
+Veg Hakka Noodles,350.0,10.0,60.0,10.0,Grain,Vegetarian,Energy Boost
+Fried Rice,290.0,8.0,50.0,8.0,Grain,Vegetarian,Energy Boost
+Sweet Corn Soup,120.0,4.0,20.0,Soup,Vegetarian,Immune Support
+Tomato Soup,90.0,3.0,15.0,Soup,Vegan,Immune Support
+Paneer Butter Masala,350.0,15.0,20.0,Dairy,High Protein,Bone Health
+Veg Manchurian,250.0,8.0,30.0,12.0,Snack,Vegetarian,Digestive Health
+Gajar Ka Halwa,300.0,6.0,40.0,10.0,Dessert,Vegetarian,Skin Health
+Shahi Paneer,320.0,18.0,15.0,22.0,Dairy,High Protein,Bone Health
+Kaju Katli,200.0,4.0,25.0,10.0,Dessert,Vegetarian,Skin Health
+Peda,150.0,5.0,20.0,Dessert,Vegetarian,Skin Health
+Milk Barfi,220.0,8.0,30.0,Dessert,Vegetarian,Energy Boost
+Aloo Bonda,180.0,5.0,25.0,8.0,Snack,Vegetarian,Digestive Health
+Chana Masala,210.0,11.0,35.0,6.0,Legume,Vegan,Heart Health
+Veg Kolhapuri,250.0,8.0,20.0,15.0,Vegetable,Vegetarian,Energy Boost
+Dahi Puri,200.0,5.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Pav Bhaji,400.0,8.0,45.0,20.0,Snack,Vegetarian,Energy Boost
+Chilli Paneer,300.0,15.0,20.0,18.0,Dairy,Vegetarian,Muscle Gain
+Hakka Noodles,350.0,10.0,60.0,10.0,Grain,Vegetarian,Energy Boost
+Lemon Rice,180.0,4.0,35.0,5.0,Grain,Vegetarian,Energy Boost
+Coconut Rice,200.0,4.0,30.0,8.0,Grain,Vegetarian,Heart Health
+Mutton Curry,400.0,25.0,10.0,25.0,Meat,Keto,Energy Boost
+Chicken Curry,350.0,28.0,15.0,20.0,Meat,Keto,Immune Support
+Rava Dosa,150.0,5.0,25.0,4.0,Grain,Vegetarian,Digestive Health
+Onion Uttapam,180.0,6.0,30.0,5.0,Grain,Vegetarian,Energy Boost
+Tomato Chutney,50.0,1.0,8.0,2.0,Condiment,Vegan,Heart Health
+Peanut Chutney,80.0,3.0,6.0,5.0,Condiment,Vegan,Heart Health
+Coconut Chutney,90.0,1.0,6.0,7.0,Condiment,Vegan,Heart Health
+Masala Dosa,206.0,5.0,30.0,6.0,Grain,Vegetarian,Energy Boost
+Chettinad Chicken Curry,380.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Aloo Chaat,250.0,6.0,35.0,10.0,Snack,Vegetarian,Digestive Health
+Gobi Manchurian,300.0,10.0,25.0,15.0,Vegetable,Vegetarian,Energy Boost
+Methi Thepla,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Bombay Sandwich,220.0,8.0,35.0,6.0,Snack,Vegetarian,Heart Health
+Paneer Bhurji,280.0,18.0,10.0,20.0,Dairy,High Protein,Bone Health
+Masoor Dal,180.0,12.0,25.0,5.0,Legume,Vegan,Weight Management
+Kadhi,150.0,6.0,20.0,5.0,Legume,Vegan,Digestive Health
+Tandoori Roti,100.0,3.5,18.0,2.0,Grain,Low Fat,Heart Health
+Naan,290.0,9.0,48.0,7.0,Grain,Vegetarian,Energy Boost
+Fish Fry,250.0,20.0,5.0,15.0,Seafood,Keto,Energy Boost
+Egg Bhurji,180.0,12.0,8.0,12.0,Egg,High Protein,Energy Boost
+Mango Pickle,150.0,0.5,8.0,12.0,Condiment,Vegetarian,Immune Support
+Vegetable Samosa,200.0,5.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Chicken Shawarma,300.0,25.0,20.0,15.0,Meat,Keto,Energy Boost
+Beef Curry,400.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Litti Chokha,350.0,12.0,45.0,15.0,Grain,Vegetarian,Energy Boost
+Mushroom Masala,220.0,6.0,20.0,12.0,Vegetable,Vegetarian,Immune Support
+Paneer Butter Masala,350.0,15.0,20.0,Dairy,High Protein,Bone Health
+Chicken Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Chicken Korma,350.0,25.0,10.0,25.0,Meat,Keto,Immune Support
+Goan Fish Curry,320.0,22.0,12.0,20.0,Seafood,High Protein,Bone Health
+Hyderabadi Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Chicken 65,300.0,25.0,10.0,20.0,Meat,Keto,Energy Boost
+Keema Pav,400.0,20.0,50.0,15.0,Meat,Pescatarian,Heart Health
+Misal Pav,350.0,15.0,40.0,12.0,Legume,Vegetarian,Energy Boost
+Sheera,250.0,5.0,45.0,7.0,Dessert,Vegetarian,Skin Health
+Jalebi,150.0,3.0,30.0,6.0,Dessert,Vegetarian,Skin Health
+Fafda,200.0,5.0,35.0,8.0,Snack,Vegetarian,Digestive Health
+Dhokla,150.0,5.0,28.0,4.0,Snack,Vegetarian,Digestive Health
+Handvo,180.0,6.0,25.0,7.0,Snack,Vegetarian,Digestive Health
+Undhiyu,250.0,8.0,30.0,12.0,Vegetable,Vegan,Weight Management
+Aamras,100.0,2.0,20.0,Beverage,Vegan,Immune Support
+Shrikhand,280.0,7.0,20.0,Dessert,Vegetarian,Energy Boost
+Banana Chips,450.0,5.0,50.0,25.0,Snack,Vegetarian,Energy Boost
+Malai Kofta,250.0,8.0,12.0,20.0,Dairy,High Fat,Energy Boost
+Aloo Tikki,220.0,6.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Mango Lassi,180.0,6.0,28.0,6.0,Beverage,Vegetarian,Energy Boost
+Roti,71.0,3.0,15.0,0.4,Grain,Vegan,Heart Health
+Paratha,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Bajra Roti,120.0,4.0,20.0,2.0,Grain,Vegan,Heart Health
+Sarson Ka Saag,180.0,5.0,15.0,10.0,Vegetable,Vegan,Bone Health
+Makki Ki Roti,150.0,4.0,25.0,3.0,Grain,Vegan,Heart Health
+Besan Laddu,250.0,6.0,35.0,10.0,Dessert,Vegetarian,Skin Health
+Moong Dal Halwa,300.0,8.0,40.0,12.0,Dessert,Vegetarian,Skin Health
+Chicken Tikka,220.0,25.0,5.0,12.0,Meat,High Protein,Muscle Gain
+Tandoori Chicken,300.0,30.0,0.0,18.0,Meat,Keto,Energy Boost
+Veg Hakka Noodles,350.0,10.0,60.0,10.0,Grain,Vegetarian,Energy Boost
+Fried Rice,290.0,8.0,50.0,8.0,Grain,Vegetarian,Energy Boost
+Sweet Corn Soup,120.0,4.0,20.0,Soup,Vegetarian,Immune Support
+Tomato Soup,90.0,3.0,15.0,Soup,Vegan,Immune Support
+Paneer Butter Masala,350.0,15.0,20.0,Dairy,High Protein,Bone Health
+Veg Manchurian,250.0,8.0,30.0,12.0,Snack,Vegetarian,Digestive Health
+Gajar Ka Halwa,300.0,6.0,40.0,10.0,Dessert,Vegetarian,Skin Health
+Shrahi Paneer,320.0,18.0,15.0,22.0,Dairy,High Protein,Bone Health
+Kaju Katli,200.0,4.0,25.0,10.0,Dessert,Vegetarian,Skin Health
+Peda,150.0,5.0,20.0,Dessert,Vegetarian,Skin Health
+Milk Barfi,220.0,8.0,30.0,Dessert,Vegetarian,Energy Boost
+Aloo Bonda,180.0,5.0,25.0,8.0,Snack,Vegetarian,Digestive Health
+Chana Masala,210.0,11.0,35.0,6.0,Legume,Vegan,Heart Health
+Veg Kolhapuri,250.0,8.0,20.0,15.0,Vegetable,Vegetarian,Energy Boost
+Dahi Puri,200.0,5.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Pav Bhaji,400.0,8.0,45.0,20.0,Snack,Vegetarian,Energy Boost
+Chilli Paneer,300.0,15.0,20.0,18.0,Dairy,Vegetarian,Muscle Gain
+Hakka Noodles,350.0,10.0,60.0,10.0,Grain,Vegetarian,Energy Boost
+Lemon Rice,180.0,4.0,35.0,5.0,Grain,Vegetarian,Energy Boost
+Coconut Rice,200.0,4.0,30.0,8.0,Grain,Vegetarian,Heart Health
+Mutton Curry,400.0,25.0,10.0,25.0,Meat,Keto,Energy Boost
+Chicken Curry,350.0,28.0,15.0,20.0,Meat,Keto,Immune Support
+Rava Dosa,150.0,5.0,25.0,4.0,Grain,Vegetarian,Digestive Health
+Onion Uttapam,180.0,6.0,30.0,5.0,Grain,Vegetarian,Energy Boost
+Tomato Chutney,50.0,1.0,8.0,2.0,Condiment,Vegan,Heart Health
+Peanut Chutney,80.0,3.0,6.0,5.0,Condiment,Vegan,Heart Health
+Coconut Chutney,90.0,1.0,6.0,7.0,Condiment,Vegan,Heart Health
+Masala Dosa,206.0,5.0,30.0,6.0,Grain,Vegetarian,Energy Boost
+Chettinad Chicken Curry,380.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Aloo Chaat,250.0,6.0,35.0,10.0,Snack,Vegetarian,Digestive Health
+Gobi Manchurian,300.0,10.0,25.0,15.0,Vegetable,Vegetarian,Energy Boost
+Methi Thepla,200.0,5.0,30.0,7.0,Grain,Vegetarian,Digestive Health
+Bombay Sandwich,220.0,8.0,35.0,6.0,Snack,Vegetarian,Heart Health
+Paneer Bhurji,280.0,18.0,10.0,20.0,Dairy,High Protein,Bone Health
+Masoor Dal,180.0,12.0,25.0,5.0,Legume,Vegan,Weight Management
+Kadhi,150.0,6.0,20.0,5.0,Legume,Vegan,Digestive Health
+Tandoori Roti,100.0,3.5,18.0,2.0,Grain,Low Fat,Heart Health
+Naan,290.0,9.0,48.0,7.0,Grain,Vegetarian,Energy Boost
+Fish Fry,250.0,20.0,5.0,15.0,Seafood,Keto,Energy Boost
+Egg Bhurji,180.0,12.0,8.0,12.0,Egg,High Protein,Energy Boost
+Mango Pickle,150.0,0.5,8.0,12.0,Condiment,Vegetarian,Immune Support
+Vegetable Samosa,200.0,5.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Chicken Shawarma,300.0,25.0,20.0,15.0,Meat,Keto,Energy Boost
+Beef Curry,400.0,30.0,10.0,25.0,Meat,Keto,Energy Boost
+Litti Chokha,350.0,12.0,45.0,15.0,Grain,Vegetarian,Energy Boost
+Mushroom Masala,220.0,6.0,20.0,12.0,Vegetable,Vegetarian,Immune Support
+Paneer Butter Masala,350.0,15.0,20.0,Dairy,High Protein,Bone Health
+Chicken Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Chicken Korma,350.0,25.0,10.0,25.0,Meat,Keto,Immune Support
+Goan Fish Curry,320.0,22.0,12.0,20.0,Seafood,High Protein,Bone Health
+Hyderabadi Biryani,450.0,20.0,60.0,15.0,Grain,High Protein,Energy Boost
+Chicken 65,300.0,25.0,10.0,20.0,Meat,Keto,Energy Boost
+Keema Pav,400.0,20.0,50.0,15.0,Meat,Pescatarian,Heart Health
+Misal Pav,350.0,15.0,40.0,12.0,Legume,Vegetarian,Energy Boost
+Sheera,250.0,5.0,45.0,7.0,Dessert,Vegetarian,Skin Health
+Jalebi,150.0,3.0,30.0,6.0,Dessert,Vegetarian,Skin Health
+Fafda,200.0,5.0,35.0,8.0,Snack,Vegetarian,Digestive Health
+Dhokla,150.0,5.0,28.0,4.0,Snack,Vegetarian,Digestive Health
+Handvo,180.0,6.0,25.0,7.0,Snack,Vegetarian,Digestive Health
+Undhiyu,250.0,8.0,30.0,12.0,Vegetable,Vegan,Weight Management
+Aamras,100.0,2.0,20.0,Beverage,Vegan,Immune Support
+Shrikhand,280.0,7.0,20.0,Dessert,Vegetarian,Energy Boost
+Banana Chips,450.0,5.0,50.0,25.0,Snack,Vegetarian,Energy Boost
+Malai Kofta,250.0,8.0,12.0,20.0,Dairy,High Fat,Energy Boost
+Aloo Tikki,220.0,6.0,30.0,8.0,Snack,Vegetarian,Digestive Health
+Veg Pulao,200.0,5.0,35.0,6.0,Grain,Vegetarian,Energy Boost
+Mango Lassi,180.0,6.0,28.0,6.0,Beverage,Vegetarian,Energy Boost
